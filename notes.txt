@@ -1,0 +1,40 @@
+help-desk
+Email:helpdesk@conorlandon.com
+password:ConorPwd112*
+
+Email:info@conorlandon.com
+password:ConorPwd112*
+
+
+
+
+info@minuteman
+helpdesk
+support@minuet
+
+
+Email:info@minutesmanlogistic.com
+password:Minutemail344*
+
+Email:support@minutesmanlogistic.com
+password:Minutemail344*
+
+Email:helpdesk@minutesmanlogistic.com
+password:Minutemail344*
+
+
+url:http://transglobalexpressdelivery.online/admin/
+username:Transglobe12
+password:GlobeAdmin220*
+
+
+
+
+ledger balance
+
+Checking balance
+
+Available balance
+
+
+

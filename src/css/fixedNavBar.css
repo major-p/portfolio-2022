@@ -1,0 +1,29 @@
+.logo {
+  background: none;
+}
+.header-left2 img {
+  width: 150px;
+}
+
+.header-container2 {
+  background-image: url(../images/bg3.png);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 80px;
+  width: 100vw;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #115b75;
+}
+
+.header-left2 {
+  background: #115b75;
+  padding-left: 12%;
+  padding-top: 20px;
+  font-size: 30px;
+  color: #007f00;
+  font-weight: bold;
+  width: 30vw;
+  height: 60px;
+}

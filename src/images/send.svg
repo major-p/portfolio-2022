@@ -1,0 +1,13 @@
+<svg id="Submit__major_p" data-name="Submit_ major p" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="336" height="50" viewBox="0 0 336 50">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#70bffc"/>
+      <stop offset="1" stop-color="#319def"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_64" data-name="Rectangle 64" width="336" height="50" rx="19" fill="url(#linear-gradient)"/>
+  <g id="Group_120" data-name="Group 120" transform="translate(114.066 10)">
+    <text id="Submit" transform="translate(-0.066 23)" fill="#fff" font-size="24" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600"><tspan x="0" y="0">Submit</tspan></text>
+    <path id="Path_69" data-name="Path 69" d="M1618.67,996.054v-6.722l24.14,7.773-24.14,7.773v-6.722l18.821-1.051Z" transform="translate(-1525.967 -982.219)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>
